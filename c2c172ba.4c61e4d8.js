@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{77:function(s){s.exports=JSON.parse('{"allTagsPath":"/sympy-tutorial/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/sympy-tutorial/blog/tags/docusaurus"}')}}]);
